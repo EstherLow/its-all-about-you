@@ -84,7 +84,6 @@ There's several ways to create a portfolio, as well as host the portfolio. Once 
     * [Name.com](https://www.name.com/)
     * [Google Domains](https://domains.google.com/about/)
   * Set up the custom domain using the [Github Pages quickstart guide](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/)
-* Don't create a full-stack app for your portfolio. That's overkill and expensive.
 
 ## [Insert Excuse Here]
 
